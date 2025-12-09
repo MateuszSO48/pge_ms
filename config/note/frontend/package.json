@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "homepage": "https://MateuszSO48.github.io/pge_ms",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
