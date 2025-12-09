@@ -32,7 +32,7 @@ jobs:
         with:
           node-version: 24
           cache: npm
-          cache-dependency-path: config/node/frontend/package-lock.json
+          cache-dependency-path: config/note/frontend/package-lock.json
 
       - name: Install dependencies
         run: npm install
